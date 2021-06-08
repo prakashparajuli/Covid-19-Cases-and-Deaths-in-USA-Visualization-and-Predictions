@@ -24,7 +24,7 @@ Cleaned the data, outliers and missing values were imputed by 7 day moving avera
 
 
 ## Further Readings
-[Full Project Report] (https://drive.google.com/file/d/1aPhnixqb1y4sKsbKOMXArOQ48s1he9w2/view?usp=sharing)
+[Full Project Report](https://drive.google.com/file/d/1aPhnixqb1y4sKsbKOMXArOQ48s1he9w2/view?usp=sharing)
 
 
 
