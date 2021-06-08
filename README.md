@@ -16,14 +16,14 @@ In this project I am using multiple datasets related to Covid-19, namely:
 Cleaned the data, outliers and missing values were imputed by 7 day moving average. 3-day moving average were used for modelling by removing high noises. All the datasets were merged and additional features such as whether the day was a public holiday, travel banned or not, Days since events and many more. Performed various inferential statistics to check whether the various events has ciontributed for the surge in cases or not. Finally, various supervised machine learning algorithms: ARIMA, SARIMAX, LSTM, Prophet,XgBoost,and LGBM were tested and final model was obtained after hyperparameter tuning. Both XgBoost and ARIMA model perormed well having mape < 0.15, I choose XgBoost considering it's high performance in capturing the trends.
 ### Key Findings:
 1. All the sources of data contributed to the predictive power of the model; top factors affecting the cases are Days since outbreak, lag_14 cases and whether or not stay home order is inmplemented.
-2. among the various supervised models, XgBoost performed well.
+2. Among the various supervised models, XgBoost performed well.
 3. Inferential analysis shows that the some of the public events/gatherings contributed for the case surge, however this surge is partly linked with the natural spread of the virus as well.
 4.   As illustrated below result shows that the cases and deaths are not declining rather slightly increasing for the next 14 days, hence precautionary measures should be adopted.
 
 
 
 ## Further Readings
-[Full Project Report (https://drive.google.com/file/d/1aPhnixqb1y4sKsbKOMXArOQ48s1he9w2/view?usp=sharing)]
+[Full Project Report] (https://drive.google.com/file/d/1aPhnixqb1y4sKsbKOMXArOQ48s1he9w2/view?usp=sharing)
 
 
 
