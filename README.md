@@ -6,7 +6,7 @@ In particular, I will analyze the county-level data of Illinois state since outb
 These predictions will guide the corresponding authorities in advance to prepare early and deploy the appropriate health care services to the area to save the lives. Hence, all the national and international regulatory agencies such as WHO, CDC, United States Department of Health and Human services are directly benefitted. Indirectly all the businessman and general public will be benefitted as these predictions help to plan the activities in advance.
 
 ## Datasets
-In this project I am using multiple datasets related to Covid-19, namely:
+In this project, I am using multiple datasets related to Covid-19, namely:
 1. **Covid-19 Cases and Deaths** obtained from _The New York Times_ Github page.
 2. **Climate Data** obtained from _National Center for Environmental Information_.
 3. **People's Mobility Data** obtained from _U.S. Department of Transportation_.
