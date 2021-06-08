@@ -20,6 +20,7 @@ Cleaned the data, outliers and missing values were imputed by 7 day moving avera
 3. Inferential analysis shows that the some of the public events/gatherings contributed for the case surge, however this surge is partly linked with the natural spread of the virus as well.
 4.   As illustrated below result shows that the cases and deaths are not declining rather slightly increasing for the next 14 days, hence precautionary measures should be adopted.
 
+![Forecast_cases](https://user-images.githubusercontent.com/66859479/121266623-7341e700-c880-11eb-8b98-7d2893047120.JPG)
 
 
 ## Further Readings
